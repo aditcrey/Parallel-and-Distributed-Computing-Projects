@@ -3,8 +3,8 @@ Contains the programs for parallel and distributed computing using mpi(message p
 
 
 ## Note:
-  *To compile:   mpicc <filename.c> -o <object_name>* \n
-  *To run:       mpirun -np <no. of processes> <object_name>* \n
+  *To compile:   mpicc <filename.c> -o <object_name>* <br>
+  *To run:       mpirun -np <no. of processes> <object_name>* <br>
   
  ## Download openMPI for linux by: 
   sudo apt-get install openmpi
