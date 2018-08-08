@@ -7,4 +7,9 @@ Contains the programs for parallel and distributed computing using mpi(message p
   *To run:       mpirun -np <no. of processes> <object_name>* <br>
   
  ## Download openMPI for linux by: 
-  sudo apt-get install openmpi
+  sudo apt-get install libopenmpi-dev
+  sudo apt-get install openmpi-bin
+  
+  
+ ## PS
+  MPI : Message Passing Interface
